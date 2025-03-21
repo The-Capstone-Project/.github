@@ -105,20 +105,22 @@ This repository contains the code and documentation for the Capstone Project, an
 
     To get started with the project, follow these steps:
 
-    1.  Clone the repository: `git clone [repository URL]`  **(Replace `[repository URL]` with your actual repository URL)**
+    1.  Clone the repository: `git clone [repository URL]`  **(Replace `[repository URL]` with the actual repository URL)**
     2.  **Clearch:**
 
         * Navigate to the `clearch` directory.
         * Ensure you have Rust installed.
         * Use `cargo build` to build the project.
         * Run the executable.
+    
     3.  **OS Scraper:**
 
         * Navigate to the `os-scraper` directory.
         * Ensure you have Go installed.
         * Run `go run main.go` to start the scraper.
+    
     4.  **RAG Agent:**
-        * [Provide setup instructions for the RAG Agent. Include dependencies (e.g., Python libraries), any setup scripts, and how to run the agent.]
+    
     5.  **Peaploy:**
 
         * Navigate to the `peaploy` directory.
