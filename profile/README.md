@@ -1,4 +1,4 @@
-#   Capstone Project: AI/ML OS
+#   The Capstone Project: LINUX DISTRIBUTION FOR AI/ML APPLICATIONS
 
 ##   Overview
 
