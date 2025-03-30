@@ -58,6 +58,7 @@ This repository contains the code and documentation for the Capstone Project, an
 * Vaishakh S Nair (S6 CY)
 * Alan Mathew (S6 CY)
 * Eric Thomas (S6 CSE)
+* Nitin K M (S6 CSE)
 * Athul Prakash (S4 CY)
 * Chris Paul (S4 CY)
 * Amalekh Biju (S4 CY)
