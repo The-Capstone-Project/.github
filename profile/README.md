@@ -51,7 +51,7 @@ This repository contains the code and documentation for the Capstone Project, an
 ##   Team
 
     The project was developed by a team of students from the Department of Computer Science and Engineering:
-
+* Haritha H (Faculty)
 * Advaith Narayanan (S8 CSE)
 * Amalendu P (S8 CSE)
 * Andrew C Anil (S6 CY)
