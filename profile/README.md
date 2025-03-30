@@ -102,6 +102,7 @@ This repository contains the code and documentation for the Capstone Project, an
     To get started with the project, follow these steps:
 
     1.  Clone the repository: `git clone [repository URL]`  **(Replace `[repository URL]` with the actual repository URL)**
+    
     2.  **Clearch:**
 
         * Navigate to the `clearch` directory.
@@ -123,6 +124,7 @@ This repository contains the code and documentation for the Capstone Project, an
         * Ensure you have Rust installed.
         * Use `cargo build` to build the project.
         * Run the executable with `cargo run [project_folder_path]` (Replace `[project_folder_path]` with the path to the project you want to analyze).
+        
     6.  **Spellchecker Tool:**
 
         * Navigate to the `spellchecker` directory.
